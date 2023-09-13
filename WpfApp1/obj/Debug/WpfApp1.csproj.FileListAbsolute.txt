@@ -26,3 +26,4 @@ D:\учеба\3 курс\ff\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.ca
 D:\учеба\3 курс\ff\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 D:\учеба\3 курс\ff\WpfApp1\obj\Debug\WpfApp1.exe
 D:\учеба\3 курс\ff\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\учеба\3 курс\ff\WpfApp1\obj\Debug\App.baml
